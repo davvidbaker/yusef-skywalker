@@ -1,0 +1,17 @@
+<manifest alg="2" build="44" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1427744919901">
+  <folder name="images">
+    <file name="11049514_10153189344366798_7683596683744638529_n.jpg" crc="157038801" ref="index"/>
+    <file name="starwars.jpg" crc="4028999620" ref="index"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="422415861"/>
+    <file name="index.css" crc="265943796" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="364326742" ref="index"/>
+    <file name="museutils.js" crc="479751881" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="445554118" ref="index"/>
+    <file name="jquery.watch.js" crc="4232581965" ref="index"/>
+  </folder>
+  <file name="index.html" crc="425774101" mt="1427744902612" redirect="true"/>
+</manifest>
